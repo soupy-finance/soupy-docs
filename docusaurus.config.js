@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/soupy-finance/soupy-docs/',
+          editUrl: 'https://github.com/soupy-finance/soupy-docs/blob/master/',
         },
         blog: {
           showReadingTime: true,
